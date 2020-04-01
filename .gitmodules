@@ -1,0 +1,3 @@
+[submodule "angular-fundamentals"]
+	path = angular-fundamentals
+	url = https://github.com/vanseqpac/angular-fundamentals.git
